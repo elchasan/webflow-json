@@ -10,7 +10,8 @@
         "project_collabs": "Springer",
         "project_timeframe": "April 2025",
         "order_number": 250,
-        "category": "Publication, Sharing great news"
+        "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Publication, Sharing great news"
     },
     {
         "project_title": "平和を歌うコンサート・concert for singing peace",
@@ -23,7 +24,8 @@
         "project_collabs": "",
         "project_timeframe": "1st Dec.2024  13:00",
         "order_number": 210,
-        "category": "Performance/event - in-person"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
     },
     {
         "project_title": "S4 E7 Podcast Music and Peacebuilding: World Music Drumming Legacies and Visions",
@@ -36,7 +38,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "April 6th, 2024",
         "order_number": 208,
-        "category": "New media creation"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", null, null]",
+        "category_string": "New media creation"
     },
     {
         "project_title": "Monthly Peacebuilder MeetUps Restarting",
@@ -49,7 +52,8 @@
         "project_collabs": "",
         "project_timeframe": "First Saturdays of the Month",
         "order_number": 208,
-        "category": "Performance/event - online, Opportunity - participate in programming"
+        "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Performance/event - online, Opportunity - participate in programming"
     },
     {
         "project_title": "Musicians without Borders launches Kivu Youth Music",
@@ -62,7 +66,8 @@
         "project_collabs": "Global Vision for Africa",
         "project_timeframe": "April 2024",
         "order_number": 208,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "Institute for Economics & Peace releases 2024 Positive Peace Report",
@@ -75,7 +80,8 @@
         "project_collabs": "",
         "project_timeframe": "April 2024",
         "order_number": 207,
-        "category": "Research Project, Publication"
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Publication"
     },
     {
         "project_title": "Music and Peacebuilding course opportunity",
@@ -88,7 +94,246 @@
         "project_collabs": "",
         "project_timeframe": "May 13-21, 2024",
         "order_number": 206,
-        "category": "Opportunity - work/professional development, Opportunity - participate in programming"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Opportunity - work/professional development, Opportunity - participate in programming"
+    },
+    {
+        "project_title": "SIMM research-seminar #8 on participatory opera and music theatre (Guildhall School, London, 9-11.09.24):",
+        "project_url": "https://www.simm-platform.eu/seminars/simm-seminar-8/",
+        "project_country_1": "United Kingdom",
+        "project_description": "1. SIMM research-seminar #8 on participatory opera and music theatre (Guildhall School, London, 9-11.09.24): \nSIMM is from 9 to 11th September 2O24 proposing a research seminar on this practice in London, in a close collaboration with the Guildhall School of Music and Drama, and with the Ghent University based academic Chair Jonet.  \n\nDeadline for applications is 15th April.\n\n(Here you can find a short report on the first research-seminar which SIMM organised last year on participatory opera and music theatre at and with the Grand Teatre de Liceu in Barcelona:) ADD LINK TO DOC HERE",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Social Impact of Music Making (SIMM)",
+        "project_collabs": "Academic Chair Jonet https://www.cesamm.eu/ \nGuildhall School https://www.gsmd.ac.uk/",
+        "project_timeframe": "Deadline for applications is 15th April. Seminar is from 9 to 11th September 2O24.",
+        "order_number": 205,
+        "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Opportunity - conference/CfP"
+    },
+    {
+        "project_title": "CfP ICTMD World Conference (2025)",
+        "project_url": "https://easychair.org/cfp/ictmd2025",
+        "project_country_1": "New Zealand",
+        "project_description": "\"The International Council for Traditions of Music and Dance will hold its 48th World Conference from 9–15 January 2025 in Wellington, New Zealand. The event is hosted by Victoria University of Wellington at the new Wellington Convention Centre.  January is a fantastic time to visit New Zealand and take advantage of the southern hemisphere summer. Online participation is welcomed and will also be an integral part of the conference. The conference will bring together scholars and artists from across the globe to the vibrant capital of New Zealand. In addition to outdoor workshops, concerts, and excursions, a special summit on Indigenous music and dance is planned. We cordially invite you, your colleagues, and students to take part in the conference.  Participants may submit a research paper, panel, roundtable, film, performance, or workshop.\"",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "ICTMD",
+        "project_collabs": "Victoria University of Wellington",
+        "project_timeframe": "Abstracts due 31 March 2024",
+        "order_number": 205,
+        "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Opportunity - conference/CfP"
+    },
+    {
+        "project_title": "Center for World Music hiring Managing Director",
+        "project_url": "https://docs.google.com/document/d/1OqIpwLOqM4BkHOR7eq0V0QAKLon4m5pPY8-KglhcG3M/edit",
+        "project_country_1": "United States",
+        "project_description": "\"The Center for World Music is a nonprofit organization that fosters intercultural awareness and understanding through in-depth encounters with the world’s performing arts traditions. In support of this goal, we sponsor educational outreach and performance. The Managing Director is a full-time position responsible for program oversight, management of the organization's internal functions, and assisting the Executive Director as needed. The Managing Director will work closely with and report to the Executive Director. Responsibilities include program leadership (e.g., schools, concerts, and events), finances, supervision, human resources, and communications. This position is hybrid. The Managing Director will have the flexibility to work from their home office but will be expected to attend some meetings and events in locations within San Diego County. This is a one-year contracted position, renewable depending on funding.\"",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Center for World Music",
+        "project_collabs": "",
+        "project_timeframe": "Deadline April 1, 2024",
+        "order_number": 204,
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
+        "category_string": "Opportunity - work/professional development"
+    },
+    {
+        "project_title": "S4 E5-6 Podcast Music and Peacebuilding: \"Dignity and Belonging with Dr. Donna Hicks and Dr. Mica Estrada\"",
+        "project_url": "https://www.musicpeacebuilding.com/dignitybelonging",
+        "project_country_1": "",
+        "project_description": "\"This is a two-part series exploring dignity with Dr. Donna Hicks and Dr. Mica Estrada. In this first episode, we spend time with Dr. Donna Hicks to discuss the magic of dignity, a South African heritage of Mandela Consciousness and Ubuntu, and what happens as we allow humility, vulnerability, and awe to foster an expansion of the self toward greater intraconnectedness.  In the second episode, we explore psychological research on dignity, stereotype threat, belonging, self-efficacy, identity, and kindness with Dr. Mica Estrada. We also examine the legacy of Dr. Herbert Kellman and his influences on identity construction. We conclude the two-part series with reflections on Hicks’ elements of dignity.\"",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "Music and Peacebuilding Podcast",
+        "project_collabs": "Kevin Shorner-Johnson",
+        "project_timeframe": "January 2024",
+        "order_number": 200,
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
+    },
+    {
+        "project_title": "CfP: \"Music in Difficult Times: Global—Plural Temporalities\" (conference)",
+        "project_url": "https://matralab.hexagram.ca/news/cfp-music-in-difficult-times/",
+        "project_country_1": "Canada",
+        "project_description": "From global pandemics to rising inflation, through the expansion of authoritarian governments and military conflict, set against climate transformations caused by unchecked capitalist development, the world is now living (or perishing) through what Indo-German composer Sandeep Bhagawti cheekily calls “interesting times.” And yet, as is often the case during periods of crisis, these times have also seen countless forms of resistance, organizing, and creativity spring up in the face of hardship. Efforts to question and transform oppressive institutions and practices have emerged through organized students, artists, and activists who know that the future belongs to all. Since a crisis is always a turning point (krisis), it demands a time for thinking, a critical decision (krinein) that takes account of the present to imagine future possibilities. It is a time to gather, to listen broadly and critically.\n\nWe are seeking proposals for a two-day interdisciplinary conference at Concordia University’s Matralab Inter-X Arts Research Space in Montréal, in the context of the Society for Contemporary Music of Quebec’s 2023-2024 Homage Season dedicated to composer and multimedia artist Sandeep Bhagwati. Inspired by the wide-ranging, interdisciplinary orientations of his work, the conference seeks performers, composers, academics, organizers, and diverse publics to examine the conditions, challenges, and possibilities for transformation in global musical communities...\" Concordia University, Montreal. May 3–5, 2024",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Matralab Inter-X Arts Research Space, Concordia University",
+        "project_collabs": "",
+        "project_timeframe": "Proposal Deadline February 15, 2024",
+        "order_number": 199,
+        "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Opportunity - conference/CfP"
+    },
+    {
+        "project_title": "Publication of journal issue “Inter- and Intrareligious Conflicts through/about Sound\"",
+        "project_url": "https://elischolar.library.yale.edu/yjmr/vol9/iss1/",
+        "project_country_1": "",
+        "project_description": "\"The Yale Journal of Music & Religion announces publication of a new issue: “Inter- and Intrareligious Conflicts through/about Sound” (vol. 9, no. 1), guest-edited by Prof. Ruth HaCohen (The Hebrew University of Jerusalem). The issue includes part two of a special section on “Hymns Beyond the Congregation,” guest-edited by Drs. Philip Burnett (University of York) and Erin G. Johnson-Williams (University of Southampton).\" (all articles Open Access)",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "Yale Journal of Music and Religion",
+        "project_collabs": "",
+        "project_timeframe": "January 2024",
+        "order_number": 199,
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Publication"
+    },
+    {
+        "project_title": "1/28ウクライナフェス",
+        "project_url": "https://www.facebook.com/jesse.jesse.395",
+        "project_country_1": "Japan",
+        "project_description": "2024.01.28\n兵庫県立美術館ギャラリー棟アトリエ1\n\n神戸のウクライナの人たちを主役とするイベント\n\nウクライナから日本へ来られた際に持ち出した民芸品をウクライナの人たちが展示します\n\nウクライナ大使館からお借りした戦禍の子どもたちが描いた絵を展示します\n\n11:00ウクライナの刺繍衣装と花冠を試着体験とウクライナの歌の練習\n\n13:00マリア・ボタレンコさん講演「発行されなかった卒業証書」\n\n15:00平和コンサート　ウクライナの歌と踊り",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "528株式会社",
+        "project_collabs": "共催　\n一般社団法人芸術の森\n\n後援\n在日ウクライナ大使館\n神戸市灘区役所\n公財兵庫国際交流協会",
+        "project_timeframe": "20240128 10:30-16:00",
+        "order_number": 101,
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
+    },
+    {
+        "project_title": "MindHarp FREE release",
+        "project_url": "https://mindharp.world/",
+        "project_country_1": "United Kingdom",
+        "project_description": "Due to the rising anxiety in the world that seems to be impacting on all of us we are giving full free access to the MindHarp platform.\nBased on my personal experience of co founding the first Palestinian (From Gaza) Israeli 'rock, pop' band in 1998 I recognised the full power of music to create spaces for dialogue. I have been involved in music and peace building internationally since then. This ignited in me and my future business partner a desire to make it possible for anyone to immediately be able to engage actively with music, specifically those people who had  never engaged actively with music at all. \nMindHarp is a web based platform that allows anyone to do that, seamlessly.\nAt MindHarp we believe that the more people who engage actively with music will lead to a safer, gentler and healthier world.\nIf you would like to know more please reach out to us\ninfo@mindharp.world\nor simply go to\nwww.mindharp.world",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "MindHarp",
+        "project_collabs": "Mark Smulian\nStewart Redpath",
+        "project_timeframe": "8/11/2023 and onwards",
+        "order_number": 100,
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", \"Free access to the MindHarp platform\"]",
+        "category_string": "New media creation, Sharing great news, Free access to the MindHarp platform"
+    },
+    {
+        "project_title": "Voices of Hope and Determination: Conversation and Song with the Leaders of the Jerusalem Youth Chorus",
+        "project_url": "https://docs.google.com/forms/d/e/1FAIpQLSe53T-p12qMeGnHn1YXTRt9oLGMhJNfMx9Gxzkq3zBfaZx8Zw/viewform",
+        "project_country_1": "United States",
+        "project_description": "\"We invite you to join us this December to share in the songs and stories of the Jerusalem Youth Chorus (JYC), an Israeli-Palestinian music and dialogue project raising voices of hope and determination that we can create an alternative to the cycle of violence. JYC Artistic and Executive Directors Micah Hendler and Amer Abu Arqub will be traveling the US on a musical speaking tour that will help us keep our common humanity at the center even in these times. Our engagements are experiential and participatory and include storytelling, performance, conversation, and community singing in English, Hebrew, and Arabic. We hope that all attendees will leave inspired and more equipped, despite all that is unfolding around us, to keep our hearts open to one another.\" Washington, DC, Chicago, New York, LA, Boston (see link for details)",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Jerusalem Youth Chorus",
+        "project_collabs": "Micah Hendler and Amer Abu Arqub",
+        "project_timeframe": "12/9/23-12/20/23",
+        "order_number": 100,
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
+    },
+    {
+        "project_title": "New Grant Program Open: ArtsHERE",
+        "project_url": "https://usregionalarts.org/artshere/",
+        "project_country_1": "United States",
+        "project_description": "\"Through grants and peer learning opportunities, ArtsHERE invests in organizations that have demonstrated a commitment to equity within their practices and programming, with the goal of increasing arts participation for underserved groups/communities, and sharing insights that may inform similar funding programs in the future.\"",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "National Endowment for the Arts",
+        "project_collabs": "",
+        "project_timeframe": "Interest due January 19, 2024",
+        "order_number": 100,
+        "category_json": "[null, null, null, null, null, null, \"Opportunity---funding-2\", null, null, null, null]",
+        "category_string": "Opportunity - funding"
+    },
+    {
+        "project_title": "Peacebuilding Effectiveness, event by Hybrid Communication in Peacebuilding",
+        "project_url": "https://hcpb.org.uk/",
+        "project_country_1": "United Kingdom",
+        "project_description": "\"This event will launch the recently published, fantastic edited collection on peacebuilding effectiveness, Are We Making a Difference: Global and Local Efforts to Assess Peacebuilding Effectiveness, edited by Hub member Dr. Stacey L. Connaughton & Dr. Jasmine R. Linabary. We will have two presentations from chapter contributors, as follows: Megan Renoir, PhD Candidate in History at the University of Cambridge, will present “Whose Peace? Prioritizing Local Perspectives to Inform our Understanding of Peacebuilding Effectiveness”. And Dr Zahid Shahab Ahmed and Dr Khan Zeb will present “The Challenges of Assessing Peacebuilding in Pakistan”.\" (online event, 5pm GMT)",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Hybrid Communication In Peacebuilding",
+        "project_collabs": "",
+        "project_timeframe": "December 13th, 2023",
+        "order_number": 100,
+        "category_json": "[null, \"Publication\", \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
+        "category_string": "Publication, Performance/event - online"
+    },
+    {
+        "project_title": "Singing for Social Change - Music Bus NL",
+        "project_url": "https://www.musicianswithoutborders.org/events/",
+        "project_country_1": "Netherlands",
+        "project_description": "\"Come join us in Amsterdam every month, to sing, connect, and raise support for music projects around the world! Every second Monday of the month, Musicians Without Borders invites you invites you to come sing for social change! Experience the joy of singing: for yourself, as part of the group, and for change. You can join this vocal circle without any experience singing, without needing to know any songs beforehand, or being able to read music – if you like to sing, you’re welcome at Tolhuistuin! The events will be led by Nicoline Snaas, with years of experience as singer, teacher, workshop leader and conductor. Proceeds of the vocal circles will go to support the work of Musicians Without Borders. You can buy a donation ticket or make a donation after the event ends.\" December 11 @ 7:30 pm - 9:00 pm CET",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Musicians without Borders",
+        "project_collabs": "Nicoline Snaas",
+        "project_timeframe": "December 11, 2023 and every second Monday",
+        "order_number": 99,
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Performance/event - in-person, Opportunity - participate in programming"
+    },
+    {
+        "project_title": "Peace activities with Ukrainian evacuees through music",
+        "project_url": "https://www.facebook.com/jesse.jesse.395",
+        "project_country_1": "Japan",
+        "project_description": "音楽でウクライナ避難者と平和活動: 2023年11月12日日曜13時\n神戸元町ALWAS（神戸市中央区元町通１丁目８−４地下1階）078-384-3735\n・沖縄創価学会からお借りした沖縄戦の絵＋音楽から感じる平和\n・ウクライナの伝統衣装体験\n・みんなでウクライナの歌を歌い踊ろう\n\nウクライナの人と一緒に音楽と文化で平和の瞬間を作ります",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "General Incorporated Association Art Forest",
+        "project_collabs": "528 Corporation\nEmbassy of Ukraine\n\njesse :japanese,female,vocal,piano,compose,music therapist,",
+        "project_timeframe": "2023年11月12日日曜13時",
+        "order_number": 98,
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
+    },
+    {
+        "project_title": "Jour Fixe – Art in Conflict",
+        "project_url": "https://www.zhdk.ch/en/international/center-for-art-and-peacebuilding-cap-8313",
+        "project_country_1": "Switzerland",
+        "project_description": "\"CAP invites you to a regular “Jour Fixe”. In its work, the Foundation, as well as people involved in similarly structured projects at ZHdK, are repeatedly confronted with fundamental questions such as: “What are the specific qualities and possibilities of art in crisis areas?” “How can projects be realised that are conceived in a most multi-layered way?” and “Where is the limit of the feasible?” These and other questions will be discussed not only within the Foundation, but also with a wider group of interested people. The “Jour Fixe – Art in Conflict” is a hybrid event, held in English at the Zurich University of the Arts ZHdK or at the artasfoundation office, but also online. Each event starts with a question discussed in an input presentation with concrete approaches to “Art and Peacebuilding” (lecture and discussion at ZHdK and online; one – two times per semester) or sets the scene for a text that participants prepare individually and discuss with invited experts – or even the authors themselves (reading group at the artasfoundation office and online; three – four times per semester).\"",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Center for Art and Peacebuilding (Zurich University of the Arts)",
+        "project_collabs": "",
+        "project_timeframe": "November 15th, 2023",
+        "order_number": 98,
+        "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - online, Performance/event - in-person"
+    },
+    {
+        "project_title": "Open Call for Entries: Palgrave Encyclopedia of Cultural Heritage and Conflict",
+        "project_url": "https://meteor.springer.com/chandc/?id=1115&tab=About&mode=ReadPage&entity=9330",
+        "project_country_1": "",
+        "project_description": "\"The Palgrave Encyclopedia of Cultural Heritage and Conflict (PECHC) is an interdisciplinary encyclopedia which critically analyses the relationship between cultural heritage and conflict as well as the tangible and intangible remnants, traces and spaces of competing heritages and memories of the past in the present. The encyclopaedia brings together leading and junior researchers and professionals from different disciplines across the humanities and social sciences to provide the state of the art and most comprehensive overview of theoretical and methodological approaches to the study of cultural heritage and conflict.\" \"Entries are welcome from academics, researchers, Postdocs, PhDs and postgraduate students and professionals in the field of cultural heritage and conflict or related areas and expertise.\"",
+        "project_media_links": "",
+        "announcement_type": "Upcoming opportunity",
+        "project_leads": "Palgrave",
+        "project_collabs": "Ihab Saloul and Britt Baillie, editors",
+        "project_timeframe": "posted fall 2023",
+        "order_number": 98,
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Publication"
+    },
+    {
+        "project_title": "New OA article on Protest Music by Eric Drott",
+        "project_url": "https://musicresearchannual.org/drott-protest-music-studies-2/",
+        "project_country_1": "",
+        "project_description": "Drott, Eric. 2023. “From Studies of Protest Music to Protest Music Studies: Mapping a Field That Doesn’t (Yet) Exist” Music Research Annual 4: 1–23. Abstract: \"This article reviews recent literature on music, protest, and social movements. Its principal focus is on English-language research being conducted in North America and the United Kingdom, dispersed across such disciplines as music studies, social movement studies, anthropology, political science, sociology, and area studies, among others. Four recent trends are highlighted: work that stresses the importance of affect to music’s political efficacy; studies addressing the soundscapes of protest events, including the tactical use of noise and silence by activists; research on media ecosystems, with a particular emphasis on online and social media’s impact on protest movements; and work that throws into relief the contradictory and ambivalent effects of protest musicking. By drawing attention to these areas of common concern, the article aims to foster dialogue among scholars working in different disciplinary spaces, as a way of mapping the terrain where a future protest music studies might take root and flourish.\"",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "Eric Drott",
+        "project_collabs": "Music Research Annual",
+        "project_timeframe": "Published November 2023",
+        "order_number": 97,
+        "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, null, null]",
+        "category_string": "Publication"
+    },
+    {
+        "project_title": "Vol. 8 Issue 3 of Music and Arts in Action (journal) published",
+        "project_url": "https://musicandartsinaction.net/index.php/maia/issue/view/24",
+        "project_country_1": "",
+        "project_description": "\"The latest issue of Music and Arts in Action: an openaccess peer-reviewed journal published by the SocArts Research Group of the University of Exeter, UK. The first article of this issue, ‘Learning to Listen: Types of Musical Knowledge and Genre Preferences’, by  Anna  Michelson and  Kat Albrecht, focuses on   the relationship between musical knowledge and genre preferences... ‘Songs in the Canadian Women’s Movements: Messages Among Three Strands’, is co-authored by, William Danaher, Kelsey Kretschmer, Jason Eastman and Rachel Whaley. This article is a historical-comparative analysis of the importance of songs in three different strands of the women’s movement in Canada... ‘Obstacles to Justice: Examining the Relationships Between Arts Organizations and Probation  Offices  in  Los  Angeles  and  Ventura  Counties’,  by Jacob  Cassman. Cassman shares a detailed  account of correctional  institutions and parole  and probation offices in Los Angeles and Ventura Counties in Southern California... We are delighted to introduce a new format to MAiA in which authors can reflect on previous publications in this journal. The final article of this issue is an opinion piece by Geoff Baker, entitled, ‘The Third Way is Not The Only Way: Interrogating a Centrist Agenda for El Sistema’...\" [text from MAiA Editorial Team's Editorial]",
+        "project_media_links": "",
+        "announcement_type": "Recent news",
+        "project_leads": "Music and Arts in Action",
+        "project_collabs": "",
+        "project_timeframe": "November 13th, 2023",
+        "order_number": 97,
+        "category_json": "[null, \"Publication\", null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "Publication, New media creation, Sharing great news"
     },
     {
         "project_title": "\"Towards an Ethnomusicology of Peace Jurisprudence\" presentation by Dr. Angela Impey",
@@ -101,7 +346,8 @@
         "project_collabs": "",
         "project_timeframe": "May 24th, 2023",
         "order_number": 0,
-        "category": "Research Project, Performance/event - in-person"
+        "category_json": "[\"Research Project\", null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Performance/event - in-person"
     },
     {
         "project_title": "Sounds of Saving opening -- Executive Director",
@@ -114,7 +360,8 @@
         "project_collabs": "",
         "project_timeframe": "September 15th, 2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
+        "category_string": "Opportunity - work/professional development"
     },
     {
         "project_title": "Music, Race & Social Justice Visiting Artist Series, Metropolitan State University",
@@ -127,7 +374,8 @@
         "project_collabs": "Duo Noire, The Space Program, Dr. View, Am're Ford, Beety, Deezy, Jacobi Ryan, think.progress, Thomas Who?, Justice Miles, Solazur",
         "project_timeframe": "2020-2023",
         "order_number": 0,
-        "category": "Performance/event - in-person, Sharing great news"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Performance/event - in-person, Sharing great news"
     },
     {
         "project_title": "Peace begins with drums: The case of conflict resolution between Omoruo and Lohilai residents",
@@ -140,7 +388,8 @@
         "project_collabs": "Africa Media Agency",
         "project_timeframe": "June 19th, 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "Stand for Sudanese Artists",
@@ -153,7 +402,8 @@
         "project_collabs": "Sudan Film Factory, the Arab Digital Expression Foundation (ADEF), Ettijahat – Independent Culture, and the Sudan Artist Fund (SAF)",
         "project_timeframe": "announced June 20th, 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "CfP: American Music: Special Issue on the Caribbean",
@@ -166,7 +416,8 @@
         "project_collabs": "",
         "project_timeframe": "July 17th, 2023",
         "order_number": 0,
-        "category": "Publication, Opportunity - conference/CfP"
+        "category_json": "[null, \"Publication\", null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Publication, Opportunity - conference/CfP"
     },
     {
         "project_title": "Music and Conflict: The Politics and Escapism of Wartime Culture",
@@ -179,7 +430,8 @@
         "project_collabs": "Institute of Austrian and German Music Research (IAGMR)",
         "project_timeframe": "19-20/05/2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "Elizabethtown College Celebrates Inaugural Master of Music Education Graduates",
@@ -192,7 +444,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "May 13th, 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "Music in Common announces the release of the first single from Vol. 1, the debut album from the Black Legacy Project.",
@@ -205,7 +458,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
-        "category": "New media creation, Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
     },
     {
         "project_title": "Music in Common receives the 2023 SERFA (Southeast Regional Folk Alliance) Award",
@@ -218,7 +472,8 @@
         "project_collabs": "SERFA",
         "project_timeframe": "May 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "MOMRI Director Presents at the 2019 APPRA Conference in Jakarta",
@@ -231,7 +486,8 @@
         "project_collabs": "APPRA",
         "project_timeframe": "2019-05-21T04:00:00.000Z",
         "order_number": 0,
-        "category": ""
+        "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
+        "category_string": "Uncategorized"
     },
     {
         "project_title": "The Beyond Skin & MOMRI Music Project: Northern Ireland & Japan Friendship through Music (Supported by the Anne O’Donoghue Award through the Arts Council of Northern Ireland)",
@@ -244,7 +500,8 @@
         "project_collabs": null,
         "project_timeframe": "2020-02-26T04:00:00.000Z",
         "order_number": 0,
-        "category": ""
+        "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
+        "category_string": "Uncategorized"
     },
     {
         "project_title": " Music in Peacebuilding at the 2019 EUPRA Conference in Catania, Italy",
@@ -257,7 +514,8 @@
         "project_collabs": null,
         "project_timeframe": "2019-11-07T04:00:00.000Z",
         "order_number": 0,
-        "category": ""
+        "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
+        "category_string": "Uncategorized"
     },
     {
         "project_title": "Remusicking Peace: Sound & Proactive Peacebuilding MOMRI at International Christian University (ICU), Oct. 25, 2019, Tokyo",
@@ -270,7 +528,8 @@
         "project_collabs": null,
         "project_timeframe": "2020-01-06T04:00:00.000Z",
         "order_number": 0,
-        "category": ""
+        "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
+        "category_string": "Uncategorized"
     },
     {
         "project_title": "SEM 2023 Preliminary Program Annnounced",
@@ -283,7 +542,8 @@
         "project_collabs": "Canadian Museum of History,\nCarleton University, and Queen’s University",
         "project_timeframe": "October 19-22, 2023",
         "order_number": 0,
-        "category": "Performance/event - in-person, Opportunity - conference/CfP"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Performance/event - in-person, Opportunity - conference/CfP"
     },
     {
         "project_title": "Lewis Prize for Music new video series on Creative Youth Development",
@@ -296,7 +556,8 @@
         "project_collabs": "Beyond the Bars, Hyde Square Task Force, Mosaic Youth Theatre of Detroit, and Saint Louis Story Stitchers Artists Collective",
         "project_timeframe": "2023",
         "order_number": 0,
-        "category": "New media creation, Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
     },
     {
         "project_title": "Wallace Foundation hiring Research Officer, Arts",
@@ -309,7 +570,8 @@
         "project_collabs": "",
         "project_timeframe": "November 4th, 2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
+        "category_string": "Opportunity - work/professional development"
     },
     {
         "project_title": "ISME 2024 CfP - \"Advocacy for Sustainability in Music Education\"",
@@ -322,7 +584,8 @@
         "project_collabs": "Uniarts Helsinki",
         "project_timeframe": "deadline October 2nd, 2023",
         "order_number": 0,
-        "category": "Opportunity - conference/CfP"
+        "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Opportunity - conference/CfP"
     },
     {
         "project_title": "Orchestras of Afghanistan International Study Day",
@@ -335,7 +598,8 @@
         "project_collabs": "Max-Planck-Institut für empirische Ästhetik",
         "project_timeframe": "September 8th, 2023",
         "order_number": 0,
-        "category": "Research Project, Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
+        "category_json": "[\"Research Project\", null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Research Project, Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
     {
         "project_title": "Wallace Foundation hiring Research Officer, Arts",
@@ -348,7 +612,8 @@
         "project_collabs": null,
         "project_timeframe": "November 4th, 2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
+        "category_string": "Opportunity - work/professional development"
     },
     {
         "project_title": "UK Musicians' Union Offering Free Refugee Musicians Membership",
@@ -361,7 +626,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development, Sharing great news"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Opportunity - work/professional development, Sharing great news"
     },
     {
         "project_title": "CfP: British Forum for Ethnomusicology Autumn Conference",
@@ -374,7 +640,8 @@
         "project_collabs": "",
         "project_timeframe": "deadline September 4th, 2023",
         "order_number": 0,
-        "category": "Performance/event - online, Opportunity - conference/CfP"
+        "category_json": "[null, null, \"Performance---event---online-2\", null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Performance/event - online, Opportunity - conference/CfP"
     },
     {
         "project_title": "Registration open: Online evaluation training for arts, culture and heritage professionals",
@@ -387,7 +654,8 @@
         "project_collabs": "University of Leeds",
         "project_timeframe": "available September 18th, 2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development, Opportunity - participate in programming"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Opportunity - work/professional development, Opportunity - participate in programming"
     },
     {
         "project_title": "Support for artists in the Arab region who are at risk",
@@ -400,7 +668,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
-        "category": "Opportunity - work/professional development, Opportunity - funding, Opportunity - participate in programming"
+        "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, \"Opportunity---funding-2\", \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Opportunity - work/professional development, Opportunity - funding, Opportunity - participate in programming"
     },
     {
         "project_title": "Peter Barakan's Music Film Festival",
@@ -413,7 +682,8 @@
         "project_collabs": "",
         "project_timeframe": "Sept. 1 to 21, 2023",
         "order_number": 0,
-        "category": "Performance/event - in-person"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
     },
     {
         "project_title": "Publication of Volume 17, Issue 2 of Music & Politics (journal)",
@@ -426,7 +696,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
-        "category": "Publication, Sharing great news"
+        "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Publication, Sharing great news"
     },
     {
         "project_title": "CfP Art for Sustenance (conference)",
@@ -439,7 +710,8 @@
         "project_collabs": "Hanyang University",
         "project_timeframe": "Proposal deadline April 24, 2024.  Conference May 24-26 2024",
         "order_number": 0,
-        "category": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
+        "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
     {
         "project_title": "Making Peace Everyone's Issue (hybrid event)",
@@ -452,7 +724,8 @@
         "project_collabs": "Institute for Economics and Peace",
         "project_timeframe": "September 26th, 2023",
         "order_number": 0,
-        "category": "Performance/event - online, Performance/event - in-person"
+        "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - online, Performance/event - in-person"
     },
     {
         "project_title": "Publication of Volume 17, Issue 2 of Music & Politics (journal)",
@@ -465,7 +738,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
-        "category": "Publication, Sharing great news"
+        "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Publication, Sharing great news"
     },
     {
         "project_title": "CfP Art for Sustenance (conference)",
@@ -478,7 +752,8 @@
         "project_collabs": "Hanyang University",
         "project_timeframe": "Proposal deadline April 24, 2024.  Conference May 24-26 2024",
         "order_number": 0,
-        "category": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
+        "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
     {
         "project_title": "Making Peace Everyone's Issue (hybrid event)",
@@ -491,7 +766,8 @@
         "project_collabs": "Institute for Economics and Peace",
         "project_timeframe": "September 26th, 2023",
         "order_number": 0,
-        "category": "Performance/event - online, Performance/event - in-person"
+        "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - online, Performance/event - in-person"
     },
     {
         "project_title": "Participate in #PeaceIs Campaign",
@@ -504,7 +780,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
-        "category": "Opportunity - participate in programming"
+        "category_json": "[null, null, null, null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Opportunity - participate in programming"
     },
     {
         "project_title": "Jerusalem Youth Chorus Touring the US",
@@ -517,7 +794,8 @@
         "project_collabs": "Uniting Voices Chicago",
         "project_timeframe": "October 25-26, 2023",
         "order_number": 0,
-        "category": "Performance/event - in-person"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
     },
     {
         "project_title": "S4 E1 Podcast Music and Peacebuilding: \"Re-membering Ourselves Home through Breath and Voice with Taína Asili\"",
@@ -530,7 +808,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "August 2023",
         "order_number": 0,
-        "category": "New media creation, Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
     },
     {
         "project_title": "Al-Musiqa Tajm'ana (Music Brings Us Together) Program Celebrates Third Year of Activities in Jordan",
@@ -543,7 +822,8 @@
         "project_collabs": "",
         "project_timeframe": "Ongoing since 2021.",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "A Music & Arts Centre at the Bidi Bidi Refugee Camp, Uganda.",
@@ -556,7 +836,8 @@
         "project_collabs": "CNN for the article describing the project: \nhttps://edition.cnn.com/2023/09/11/style/bidi-bidi-music-arts-center-dfi/index.html",
         "project_timeframe": "Soon to be completed (as of Sept. 2023)",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "Santuri Electronic Music Academy (SEMA) Wins 2023 IMC Music Rights Award",
@@ -569,7 +850,8 @@
         "project_collabs": "Santuri Electronic Music Academy",
         "project_timeframe": "November 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "S4 E1 Podcast Music and Peacebuilding: \"Dancing the Dance of Emotions Between Us with Batja Mesquita\"",
@@ -582,7 +864,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "September 2023",
         "order_number": 0,
-        "category": "New media creation, Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
     },
     {
         "project_title": "Lancet Global Series on the health benefits of the arts",
@@ -595,7 +878,8 @@
         "project_collabs": "World Health Organization",
         "project_timeframe": "September 25th, 2023",
         "order_number": 0,
-        "category": "Research Project, Sharing great news"
+        "category_json": "[\"Research Project\", null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Research Project, Sharing great news"
     },
     {
         "project_title": "CfP Special Issue: Music education among refugee and migrant youths: sharing, belonging, including",
@@ -608,7 +892,8 @@
         "project_collabs": "Alix Didier Sarrouy and Chrysi Kyratsou",
         "project_timeframe": "October 15th, 2023",
         "order_number": 0,
-        "category": "Research Project, Publication"
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Publication"
     },
     {
         "project_title": "MusicLab Copenhagen results hybrid launch event",
@@ -621,7 +906,8 @@
         "project_collabs": "",
         "project_timeframe": "October 26th, 2023",
         "order_number": 0,
-        "category": "Research Project, Performance/event - online, Performance/event - in-person"
+        "category_json": "[\"Research Project\", null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Performance/event - online, Performance/event - in-person"
     },
     {
         "project_title": "Harmundi International Music Summit - Application Open",
@@ -634,7 +920,8 @@
         "project_collabs": "Citizen Diplomacy Action Fund",
         "project_timeframe": "November 3-5, 2023",
         "order_number": 0,
-        "category": "Performance/event - online, Opportunity - participate in programming"
+        "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
+        "category_string": "Performance/event - online, Opportunity - participate in programming"
     },
     {
         "project_title": "York Festival Ideas Webinar on Music in Peacebuilding",
@@ -647,7 +934,8 @@
         "project_collabs": "University of York\nYork Festival of Ideas\nMusicians Without Borders\nBeyond Skin\nMOMRI",
         "project_timeframe": "17/06/2021",
         "order_number": 0,
-        "category": "Performance/event - online"
+        "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - online"
     },
     {
         "project_title": "MOMRI Exhibition & Min-On’s 60th Anniversary",
@@ -660,7 +948,8 @@
         "project_collabs": "Min-On Museum",
         "project_timeframe": "Oct. 13, 2023 to June 30, 2024",
         "order_number": 0,
-        "category": "Performance/event - in-person"
+        "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - in-person"
     },
     {
         "project_title": "Book Talk: We the Young Fighters: Pop Culture, Terror, and War in Sierra Leone",
@@ -673,7 +962,8 @@
         "project_collabs": "Marc Sommers",
         "project_timeframe": "October 15th, 2023 10am EST",
         "order_number": 0,
-        "category": "Research Project, Publication, Performance/event - online"
+        "category_json": "[\"Research Project\", \"Publication\", \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
+        "category_string": "Research Project, Publication, Performance/event - online"
     },
     {
         "project_title": "CfP: “Social Inclusion, Community, and Belonging at International Music Festivals”",
@@ -686,7 +976,8 @@
         "project_collabs": "University of Sheffield",
         "project_timeframe": "Deadline December 15th, 2023",
         "order_number": 0,
-        "category": "Research Project, Opportunity - conference/CfP"
+        "category_json": "[\"Research Project\", null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
+        "category_string": "Research Project, Opportunity - conference/CfP"
     },
     {
         "project_title": "Voices of Peace in Times of War",
@@ -699,7 +990,8 @@
         "project_collabs": "",
         "project_timeframe": "Sunday, October 22 · 1-2pm EST",
         "order_number": 0,
-        "category": "Performance/event - online"
+        "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
+        "category_string": "Performance/event - online"
     },
     {
         "project_title": "Groundbreaking Study Reveals Impact of the Arts on Communities Across America",
@@ -712,7 +1004,8 @@
         "project_collabs": "",
         "project_timeframe": "published October 2023",
         "order_number": 0,
-        "category": "Research Project, Publication, Sharing great news"
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Research Project, Publication, Sharing great news"
     },
     {
         "project_title": "U.S. Department of State launched the Global Music Diplomacy Initiative",
@@ -725,7 +1018,8 @@
         "project_collabs": "",
         "project_timeframe": "launched September 2023",
         "order_number": 0,
-        "category": "Sharing great news"
+        "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Sharing great news"
     },
     {
         "project_title": "New Data Reveal How Adults Participated in the Arts During COVID-19",
@@ -738,7 +1032,8 @@
         "project_collabs": "",
         "project_timeframe": "published October 2023",
         "order_number": 0,
-        "category": "Research Project, Publication, Sharing great news"
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Research Project, Publication, Sharing great news"
     },
     {
         "project_title": "S4 E3-4 Podcast Music and Peacebuilding: \"Sound Connects Us: The Betweenness of Sonic Experience\"",
@@ -751,266 +1046,7 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "October 28, 2023",
         "order_number": 0,
-        "category": "New media creation, Sharing great news"
-    },
-    {
-        "project_title": "音楽でウクライナ避難者と平和活動",
-        "project_url": "https://www.facebook.com/jesse.jesse.395",
-        "project_country_1": "Japan",
-        "project_description": "2023年11月12日日曜13時\n神戸元町ALWAS（神戸市中央区元町通１丁目８−４地下1階）078-384-3735\n・沖縄創価学会からお借りした沖縄戦の絵＋音楽から感じる平和\n・ウクライナの伝統衣装体験\n・みんなでウクライナの歌を歌い踊ろう\n\nウクライナの人と一緒に音楽と文化で平和の瞬間を作ります",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "General Incorporated Association Art Forest",
-        "project_collabs": "528 Corporation\nEmbassy of Ukraine\n\njesse :japanese,female,vocal,piano,compose,music therapist,",
-        "project_timeframe": "2023年11月12日日曜13時",
-        "order_number": 0,
-        "category": "Performance/event - in-person"
-    },
-    {
-        "project_title": "MindHarp FREE release",
-        "project_url": "https://mindharp.world/",
-        "project_country_1": "United Kingdom",
-        "project_description": "Due to the rising anxiety in the world that seems to be impacting on all of us we are giving full free access to the MindHarp platform.\nBased on my personal experience of co founding the first Palestinian (From Gaza) Israeli 'rock, pop' band in 1998 I recognised the full power of music to create spaces for dialogue. I have been involved in music and peace building internationally since then. This ignited in me and my future business partner a desire to make it possible for anyone to immediately be able to engage actively with music, specifically those people who had  never engaged actively with music at all. \nMindHarp is a web based platform that allows anyone to do that, seamlessly.\nAt MindHarp we believe that the more people who engage actively with music will lead to a safer, gentler and healthier world.\nIf you would like to know more please reach out to us\ninfo@mindharp.world\nor simply go to\nwww.mindharp.world",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "MindHarp",
-        "project_collabs": "Mark Smulian\nStewart Redpath",
-        "project_timeframe": "8/11/2023 and onwards",
-        "order_number": 0,
-        "category": "New media creation, Sharing great news, Free access to the MindHarp platform"
-    },
-    {
-        "project_title": "Peace activities with Ukrainian evacuees through music",
-        "project_url": "https://www.facebook.com/jesse.jesse.395",
-        "project_country_1": "Japan",
-        "project_description": "音楽でウクライナ避難者と平和活動: 2023年11月12日日曜13時\n神戸元町ALWAS（神戸市中央区元町通１丁目８−４地下1階）078-384-3735\n・沖縄創価学会からお借りした沖縄戦の絵＋音楽から感じる平和\n・ウクライナの伝統衣装体験\n・みんなでウクライナの歌を歌い踊ろう\n\nウクライナの人と一緒に音楽と文化で平和の瞬間を作ります",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "General Incorporated Association Art Forest",
-        "project_collabs": "528 Corporation\nEmbassy of Ukraine\n\njesse :japanese,female,vocal,piano,compose,music therapist,",
-        "project_timeframe": "2023年11月12日日曜13時",
-        "order_number": 0,
-        "category": "Performance/event - in-person"
-    },
-    {
-        "project_title": "Jour Fixe – Art in Conflict",
-        "project_url": "https://www.zhdk.ch/en/international/center-for-art-and-peacebuilding-cap-8313",
-        "project_country_1": "Switzerland",
-        "project_description": "\"CAP invites you to a regular “Jour Fixe”. In its work, the Foundation, as well as people involved in similarly structured projects at ZHdK, are repeatedly confronted with fundamental questions such as: “What are the specific qualities and possibilities of art in crisis areas?” “How can projects be realised that are conceived in a most multi-layered way?” and “Where is the limit of the feasible?” These and other questions will be discussed not only within the Foundation, but also with a wider group of interested people. The “Jour Fixe – Art in Conflict” is a hybrid event, held in English at the Zurich University of the Arts ZHdK or at the artasfoundation office, but also online. Each event starts with a question discussed in an input presentation with concrete approaches to “Art and Peacebuilding” (lecture and discussion at ZHdK and online; one – two times per semester) or sets the scene for a text that participants prepare individually and discuss with invited experts – or even the authors themselves (reading group at the artasfoundation office and online; three – four times per semester).\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Center for Art and Peacebuilding (Zurich University of the Arts)",
-        "project_collabs": "",
-        "project_timeframe": "November 15th, 2023",
-        "order_number": 0,
-        "category": "Performance/event - online, Performance/event - in-person"
-    },
-    {
-        "project_title": "New OA article on Protest Music by Eric Drott",
-        "project_url": "https://musicresearchannual.org/drott-protest-music-studies-2/",
-        "project_country_1": "",
-        "project_description": "Drott, Eric. 2023. “From Studies of Protest Music to Protest Music Studies: Mapping a Field That Doesn’t (Yet) Exist” Music Research Annual 4: 1–23. Abstract: \"This article reviews recent literature on music, protest, and social movements. Its principal focus is on English-language research being conducted in North America and the United Kingdom, dispersed across such disciplines as music studies, social movement studies, anthropology, political science, sociology, and area studies, among others. Four recent trends are highlighted: work that stresses the importance of affect to music’s political efficacy; studies addressing the soundscapes of protest events, including the tactical use of noise and silence by activists; research on media ecosystems, with a particular emphasis on online and social media’s impact on protest movements; and work that throws into relief the contradictory and ambivalent effects of protest musicking. By drawing attention to these areas of common concern, the article aims to foster dialogue among scholars working in different disciplinary spaces, as a way of mapping the terrain where a future protest music studies might take root and flourish.\"",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "Eric Drott",
-        "project_collabs": "Music Research Annual",
-        "project_timeframe": "Published November 2023",
-        "order_number": 0,
-        "category": "Publication"
-    },
-    {
-        "project_title": "New OA article on Protest Music by Eric Drott",
-        "project_url": "https://musicresearchannual.org/drott-protest-music-studies-2/",
-        "project_country_1": "",
-        "project_description": "Drott, Eric. 2023. “From Studies of Protest Music to Protest Music Studies: Mapping a Field That Doesn’t (Yet) Exist” Music Research Annual 4: 1–23. Abstract: \"This article reviews recent literature on music, protest, and social movements. Its principal focus is on English-language research being conducted in North America and the United Kingdom, dispersed across such disciplines as music studies, social movement studies, anthropology, political science, sociology, and area studies, among others. Four recent trends are highlighted: work that stresses the importance of affect to music’s political efficacy; studies addressing the soundscapes of protest events, including the tactical use of noise and silence by activists; research on media ecosystems, with a particular emphasis on online and social media’s impact on protest movements; and work that throws into relief the contradictory and ambivalent effects of protest musicking. By drawing attention to these areas of common concern, the article aims to foster dialogue among scholars working in different disciplinary spaces, as a way of mapping the terrain where a future protest music studies might take root and flourish.\"",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "Eric Drott",
-        "project_collabs": "Music Research Annual",
-        "project_timeframe": "Published November 2023",
-        "order_number": 0,
-        "category": "Publication"
-    },
-    {
-        "project_title": "Vol. 8 Issue 3 of Music and Arts in Action (journal) published",
-        "project_url": "https://musicandartsinaction.net/index.php/maia/issue/view/24",
-        "project_country_1": "",
-        "project_description": "\"The latest issue of Music and Arts in Action: an openaccess peer-reviewed journal published by the SocArts Research Group of the University of Exeter, UK. The first article of this issue, ‘Learning to Listen: Types of Musical Knowledge and Genre Preferences’, by  Anna  Michelson and  Kat Albrecht, focuses on   the relationship between musical knowledge and genre preferences... ‘Songs in the Canadian Women’s Movements: Messages Among Three Strands’, is co-authored by, William Danaher, Kelsey Kretschmer, Jason Eastman and Rachel Whaley. This article is a historical-comparative analysis of the importance of songs in three different strands of the women’s movement in Canada... ‘Obstacles to Justice: Examining the Relationships Between Arts Organizations and Probation  Offices  in  Los  Angeles  and  Ventura  Counties’,  by Jacob  Cassman. Cassman shares a detailed  account of correctional  institutions and parole  and probation offices in Los Angeles and Ventura Counties in Southern California... We are delighted to introduce a new format to MAiA in which authors can reflect on previous publications in this journal. The final article of this issue is an opinion piece by Geoff Baker, entitled, ‘The Third Way is Not The Only Way: Interrogating a Centrist Agenda for El Sistema’...\" [text from MAiA Editorial Team's Editorial]",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "Music and Arts in Action",
-        "project_collabs": "",
-        "project_timeframe": "November 13th, 2023",
-        "order_number": 0,
-        "category": "Publication, New media creation, Sharing great news"
-    },
-    {
-        "project_title": "Open Call for Entries: Palgrave Encyclopedia of Cultural Heritage and Conflict",
-        "project_url": "https://meteor.springer.com/chandc/?id=1115&tab=About&mode=ReadPage&entity=9330",
-        "project_country_1": "",
-        "project_description": "\"The Palgrave Encyclopedia of Cultural Heritage and Conflict (PECHC) is an interdisciplinary encyclopedia which critically analyses the relationship between cultural heritage and conflict as well as the tangible and intangible remnants, traces and spaces of competing heritages and memories of the past in the present. The encyclopaedia brings together leading and junior researchers and professionals from different disciplines across the humanities and social sciences to provide the state of the art and most comprehensive overview of theoretical and methodological approaches to the study of cultural heritage and conflict.\" \"Entries are welcome from academics, researchers, Postdocs, PhDs and postgraduate students and professionals in the field of cultural heritage and conflict or related areas and expertise.\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Palgrave",
-        "project_collabs": "Ihab Saloul and Britt Baillie, editors",
-        "project_timeframe": "posted fall 2023",
-        "order_number": 0,
-        "category": "Research Project, Publication"
-    },
-    {
-        "project_title": "Open Call for Entries: Palgrave Encyclopedia of Cultural Heritage and Conflict",
-        "project_url": "https://meteor.springer.com/chandc/?id=1115&tab=About&mode=ReadPage&entity=9330",
-        "project_country_1": "",
-        "project_description": "\"The Palgrave Encyclopedia of Cultural Heritage and Conflict (PECHC) is an interdisciplinary encyclopedia which critically analyses the relationship between cultural heritage and conflict as well as the tangible and intangible remnants, traces and spaces of competing heritages and memories of the past in the present. The encyclopaedia brings together leading and junior researchers and professionals from different disciplines across the humanities and social sciences to provide the state of the art and most comprehensive overview of theoretical and methodological approaches to the study of cultural heritage and conflict.\" \"Entries are welcome from academics, researchers, Postdocs, PhDs and postgraduate students and professionals in the field of cultural heritage and conflict or related areas and expertise.\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Palgrave",
-        "project_collabs": "Ihab Saloul and Britt Baillie, editors",
-        "project_timeframe": "posted fall 2023",
-        "order_number": 0,
-        "category": "Research Project, Publication"
-    },
-    {
-        "project_title": "Singing for Social Change - Music Bus NL",
-        "project_url": "https://www.musicianswithoutborders.org/events/",
-        "project_country_1": "Netherlands",
-        "project_description": "\"Come join us in Amsterdam every month, to sing, connect, and raise support for music projects around the world! Every second Monday of the month, Musicians Without Borders invites you invites you to come sing for social change! Experience the joy of singing: for yourself, as part of the group, and for change. You can join this vocal circle without any experience singing, without needing to know any songs beforehand, or being able to read music – if you like to sing, you’re welcome at Tolhuistuin! The events will be led by Nicoline Snaas, with years of experience as singer, teacher, workshop leader and conductor. Proceeds of the vocal circles will go to support the work of Musicians Without Borders. You can buy a donation ticket or make a donation after the event ends.\" December 11 @ 7:30 pm - 9:00 pm CET",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Musicians without Borders",
-        "project_collabs": "Nicoline Snaas",
-        "project_timeframe": "December 11, 2023 and every second Monday",
-        "order_number": 0,
-        "category": "Performance/event - in-person, Opportunity - participate in programming"
-    },
-    {
-        "project_title": "Voices of Hope and Determination: Conversation and Song with the Leaders of the Jerusalem Youth Chorus",
-        "project_url": "https://docs.google.com/forms/d/e/1FAIpQLSe53T-p12qMeGnHn1YXTRt9oLGMhJNfMx9Gxzkq3zBfaZx8Zw/viewform",
-        "project_country_1": "United States",
-        "project_description": "\"We invite you to join us this December to share in the songs and stories of the Jerusalem Youth Chorus (JYC), an Israeli-Palestinian music and dialogue project raising voices of hope and determination that we can create an alternative to the cycle of violence. JYC Artistic and Executive Directors Micah Hendler and Amer Abu Arqub will be traveling the US on a musical speaking tour that will help us keep our common humanity at the center even in these times. Our engagements are experiential and participatory and include storytelling, performance, conversation, and community singing in English, Hebrew, and Arabic. We hope that all attendees will leave inspired and more equipped, despite all that is unfolding around us, to keep our hearts open to one another.\" Washington, DC, Chicago, New York, LA, Boston (see link for details)",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Jerusalem Youth Chorus",
-        "project_collabs": "Micah Hendler and Amer Abu Arqub",
-        "project_timeframe": "12/9/23-12/20/23",
-        "order_number": 0,
-        "category": "Performance/event - in-person"
-    },
-    {
-        "project_title": "New Grant Program Open: ArtsHERE",
-        "project_url": "https://usregionalarts.org/artshere/",
-        "project_country_1": "United States",
-        "project_description": "\"Through grants and peer learning opportunities, ArtsHERE invests in organizations that have demonstrated a commitment to equity within their practices and programming, with the goal of increasing arts participation for underserved groups/communities, and sharing insights that may inform similar funding programs in the future.\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "National Endowment for the Arts",
-        "project_collabs": "",
-        "project_timeframe": "Interest due January 19, 2024",
-        "order_number": 0,
-        "category": "Opportunity - funding"
-    },
-    {
-        "project_title": "Peacebuilding Effectiveness, event by Hybrid Communication in Peacebuilding",
-        "project_url": "https://hcpb.org.uk/",
-        "project_country_1": "United Kingdom",
-        "project_description": "\"This event will launch the recently published, fantastic edited collection on peacebuilding effectiveness, Are We Making a Difference: Global and Local Efforts to Assess Peacebuilding Effectiveness, edited by Hub member Dr. Stacey L. Connaughton & Dr. Jasmine R. Linabary. We will have two presentations from chapter contributors, as follows: Megan Renoir, PhD Candidate in History at the University of Cambridge, will present “Whose Peace? Prioritizing Local Perspectives to Inform our Understanding of Peacebuilding Effectiveness”. And Dr Zahid Shahab Ahmed and Dr Khan Zeb will present “The Challenges of Assessing Peacebuilding in Pakistan”.\" (online event, 5pm GMT)",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Hybrid Communication In Peacebuilding",
-        "project_collabs": "",
-        "project_timeframe": "December 13th, 2023",
-        "order_number": 0,
-        "category": "Publication, Performance/event - online"
-    },
-    {
-        "project_title": "1/28ウクライナフェス",
-        "project_url": "https://www.facebook.com/jesse.jesse.395",
-        "project_country_1": "Japan",
-        "project_description": "2024.01.28\n兵庫県立美術館ギャラリー棟アトリエ1\n\n神戸のウクライナの人たちを主役とするイベント\n\nウクライナから日本へ来られた際に持ち出した民芸品をウクライナの人たちが展示します\n\nウクライナ大使館からお借りした戦禍の子どもたちが描いた絵を展示します\n\n11:00ウクライナの刺繍衣装と花冠を試着体験とウクライナの歌の練習\n\n13:00マリア・ボタレンコさん講演「発行されなかった卒業証書」\n\n15:00平和コンサート　ウクライナの歌と踊り",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "528株式会社",
-        "project_collabs": "共催　\n一般社団法人芸術の森\n\n後援\n在日ウクライナ大使館\n神戸市灘区役所\n公財兵庫国際交流協会",
-        "project_timeframe": "20240128 10:30-16:00",
-        "order_number": 0,
-        "category": "Performance/event - in-person"
-    },
-    {
-        "project_title": "S4 E5-6 Podcast Music and Peacebuilding: \"Dignity and Belonging with Dr. Donna Hicks and Dr. Mica Estrada\"",
-        "project_url": "https://www.musicpeacebuilding.com/dignitybelonging",
-        "project_country_1": "",
-        "project_description": "\"This is a two-part series exploring dignity with Dr. Donna Hicks and Dr. Mica Estrada. In this first episode, we spend time with Dr. Donna Hicks to discuss the magic of dignity, a South African heritage of Mandela Consciousness and Ubuntu, and what happens as we allow humility, vulnerability, and awe to foster an expansion of the self toward greater intraconnectedness.  In the second episode, we explore psychological research on dignity, stereotype threat, belonging, self-efficacy, identity, and kindness with Dr. Mica Estrada. We also examine the legacy of Dr. Herbert Kellman and his influences on identity construction. We conclude the two-part series with reflections on Hicks’ elements of dignity.\"",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "Music and Peacebuilding Podcast",
-        "project_collabs": "Kevin Shorner-Johnson",
-        "project_timeframe": "January 2024",
-        "order_number": 0,
-        "category": "New media creation, Sharing great news"
-    },
-    {
-        "project_title": "CfP: \"Music in Difficult Times: Global—Plural Temporalities\" (conference)",
-        "project_url": "https://matralab.hexagram.ca/news/cfp-music-in-difficult-times/",
-        "project_country_1": "Canada",
-        "project_description": "From global pandemics to rising inflation, through the expansion of authoritarian governments and military conflict, set against climate transformations caused by unchecked capitalist development, the world is now living (or perishing) through what Indo-German composer Sandeep Bhagawti cheekily calls “interesting times.” And yet, as is often the case during periods of crisis, these times have also seen countless forms of resistance, organizing, and creativity spring up in the face of hardship. Efforts to question and transform oppressive institutions and practices have emerged through organized students, artists, and activists who know that the future belongs to all. Since a crisis is always a turning point (krisis), it demands a time for thinking, a critical decision (krinein) that takes account of the present to imagine future possibilities. It is a time to gather, to listen broadly and critically.\n\nWe are seeking proposals for a two-day interdisciplinary conference at Concordia University’s Matralab Inter-X Arts Research Space in Montréal, in the context of the Society for Contemporary Music of Quebec’s 2023-2024 Homage Season dedicated to composer and multimedia artist Sandeep Bhagwati. Inspired by the wide-ranging, interdisciplinary orientations of his work, the conference seeks performers, composers, academics, organizers, and diverse publics to examine the conditions, challenges, and possibilities for transformation in global musical communities...\" Concordia University, Montreal. May 3–5, 2024",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Matralab Inter-X Arts Research Space, Concordia University",
-        "project_collabs": "",
-        "project_timeframe": "Proposal Deadline February 15, 2024",
-        "order_number": 0,
-        "category": "Opportunity - conference/CfP"
-    },
-    {
-        "project_title": "Publication of journal issue “Inter- and Intrareligious Conflicts through/about Sound\"",
-        "project_url": "https://elischolar.library.yale.edu/yjmr/vol9/iss1/",
-        "project_country_1": "",
-        "project_description": "\"The Yale Journal of Music & Religion announces publication of a new issue: “Inter- and Intrareligious Conflicts through/about Sound” (vol. 9, no. 1), guest-edited by Prof. Ruth HaCohen (The Hebrew University of Jerusalem). The issue includes part two of a special section on “Hymns Beyond the Congregation,” guest-edited by Drs. Philip Burnett (University of York) and Erin G. Johnson-Williams (University of Southampton).\" (all articles Open Access)",
-        "project_media_links": "",
-        "announcement_type": "Recent news",
-        "project_leads": "Yale Journal of Music and Religion",
-        "project_collabs": "",
-        "project_timeframe": "January 2024",
-        "order_number": 0,
-        "category": "Research Project, Publication"
-    },
-    {
-        "project_title": "SIMM research-seminar #8 on participatory opera and music theatre (Guildhall School, London, 9-11.09.24):",
-        "project_url": "https://www.simm-platform.eu/seminars/simm-seminar-8/",
-        "project_country_1": "United Kingdom",
-        "project_description": "1. SIMM research-seminar #8 on participatory opera and music theatre (Guildhall School, London, 9-11.09.24): \nSIMM is from 9 to 11th September 2O24 proposing a research seminar on this practice in London, in a close collaboration with the Guildhall School of Music and Drama, and with the Ghent University based academic Chair Jonet.  \n\nDeadline for applications is 15th April.\n\n(Here you can find a short report on the first research-seminar which SIMM organised last year on participatory opera and music theatre at and with the Grand Teatre de Liceu in Barcelona:) ADD LINK TO DOC HERE",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Social Impact of Music Making (SIMM)",
-        "project_collabs": "Academic Chair Jonet https://www.cesamm.eu/ \nGuildhall School https://www.gsmd.ac.uk/",
-        "project_timeframe": "Deadline for applications is 15th April. Seminar is from 9 to 11th September 2O24.",
-        "order_number": 0,
-        "category": "Opportunity - conference/CfP"
-    },
-    {
-        "project_title": "Center for World Music hiring Managing Director",
-        "project_url": "https://docs.google.com/document/d/1OqIpwLOqM4BkHOR7eq0V0QAKLon4m5pPY8-KglhcG3M/edit",
-        "project_country_1": "United States",
-        "project_description": "\"The Center for World Music is a nonprofit organization that fosters intercultural awareness and understanding through in-depth encounters with the world’s performing arts traditions. In support of this goal, we sponsor educational outreach and performance. The Managing Director is a full-time position responsible for program oversight, management of the organization's internal functions, and assisting the Executive Director as needed. The Managing Director will work closely with and report to the Executive Director. Responsibilities include program leadership (e.g., schools, concerts, and events), finances, supervision, human resources, and communications. This position is hybrid. The Managing Director will have the flexibility to work from their home office but will be expected to attend some meetings and events in locations within San Diego County. This is a one-year contracted position, renewable depending on funding.\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "Center for World Music",
-        "project_collabs": "",
-        "project_timeframe": "Deadline April 1, 2024",
-        "order_number": 0,
-        "category": "Opportunity - work/professional development"
-    },
-    {
-        "project_title": "CfP ICTMD World Conference (2025)",
-        "project_url": "https://easychair.org/cfp/ictmd2025",
-        "project_country_1": "New Zealand",
-        "project_description": "\"The International Council for Traditions of Music and Dance will hold its 48th World Conference from 9–15 January 2025 in Wellington, New Zealand. The event is hosted by Victoria University of Wellington at the new Wellington Convention Centre.  January is a fantastic time to visit New Zealand and take advantage of the southern hemisphere summer. Online participation is welcomed and will also be an integral part of the conference. The conference will bring together scholars and artists from across the globe to the vibrant capital of New Zealand. In addition to outdoor workshops, concerts, and excursions, a special summit on Indigenous music and dance is planned. We cordially invite you, your colleagues, and students to take part in the conference.  Participants may submit a research paper, panel, roundtable, film, performance, or workshop.\"",
-        "project_media_links": "",
-        "announcement_type": "Upcoming opportunity",
-        "project_leads": "ICTMD",
-        "project_collabs": "Victoria University of Wellington",
-        "project_timeframe": "Abstracts due 31 March 2024",
-        "order_number": 0,
-        "category": "Opportunity - conference/CfP"
+        "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
+        "category_string": "New media creation, Sharing great news"
     }
 ]
