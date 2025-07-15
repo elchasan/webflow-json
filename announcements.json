@@ -1,5 +1,21 @@
 [
     {
+        "project_title": "Recent Publication: \"Building Bridges with Music – A Qualitative Analysis Exploring the Use of Music and Music Therapy in\r\nPeacebuilding from Different Perspectives\"",
+        "project_url": "https://voices.no/index.php/voices/article/view/3987",
+        "project_country_1": null,
+        "project_description": "This research was conducted by music therapist, Johanna Möller, who interviewed different scholar in the field of music in peacebuilding from different knowledge backgrounds and parts of the world. The aim of this research was to gain a deeper understanding of how music is used in peacebuilding and how different perspectives and knowledge backgrounds inform the way music is used to support peacebuilding processes. Additionally, the paper shines a light on the use and application of music therapeutical approaches in peacebuilding which are still quite rare. Johanna is so happy and honoured to finally be able to share her work with the music in peacebuilding community. She hopes to be able to give something back to all the amazing people in the field who were her source of inspiration. A special thanks goes out to the MOMRI Music in Peacebuilding Dialogue Network – it is such a supportive environment. Johanna hopes that this paper contributes to the field in a meaningful way and offers a hopeful perspective regarding the challenges we are encountering all over the world these days.",
+        "project_media_links": null,
+        "announcement_type": "Recent news",
+        "project_leads": "Johanna Muller",
+        "project_collabs": null,
+        "project_timeframe": "Published July 2025",
+        "order_number": 305,
+        "relation_role": "Dialogue Network",
+        "slug": "moller-building-bridges",
+        "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
+        "category_string": "Research Project, Publication, Sharing great news"
+    },
+    {
         "project_title": "John Gledhill wins funding for project to explore use of music in UN peacebuilding",
         "project_url": "https://www.qeh.ox.ac.uk/news/john-gledhill-wins-funding-project-explore-use-music-un-peacebuilding",
         "project_country_1": "United Kingdom",
@@ -10,6 +26,8 @@
         "project_collabs": "University of Oxford",
         "project_timeframe": "16/07/2024",
         "order_number": 300,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -24,6 +42,8 @@
         "project_collabs": "Springer",
         "project_timeframe": "April 2025",
         "order_number": 250,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Publication, Sharing great news"
     },
@@ -38,6 +58,8 @@
         "project_collabs": "",
         "project_timeframe": "1st Dec.2024  13:00",
         "order_number": 210,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -52,6 +74,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "April 6th, 2024",
         "order_number": 208,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", null, null]",
         "category_string": "New media creation"
     },
@@ -66,6 +90,8 @@
         "project_collabs": "",
         "project_timeframe": "First Saturdays of the Month",
         "order_number": 208,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Performance/event - online, Opportunity - participate in programming"
     },
@@ -80,6 +106,8 @@
         "project_collabs": "Global Vision for Africa",
         "project_timeframe": "April 2024",
         "order_number": 208,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -94,6 +122,8 @@
         "project_collabs": "",
         "project_timeframe": "April 2024",
         "order_number": 207,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
         "category_string": "Research Project, Publication"
     },
@@ -108,6 +138,8 @@
         "project_collabs": "",
         "project_timeframe": "May 13-21, 2024",
         "order_number": 206,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Opportunity - work/professional development, Opportunity - participate in programming"
     },
@@ -122,6 +154,8 @@
         "project_collabs": "Academic Chair Jonet https://www.cesamm.eu/ \nGuildhall School https://www.gsmd.ac.uk/",
         "project_timeframe": "Deadline for applications is 15th April. Seminar is from 9 to 11th September 2O24.",
         "order_number": 205,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Opportunity - conference/CfP"
     },
@@ -136,6 +170,8 @@
         "project_collabs": "Victoria University of Wellington",
         "project_timeframe": "Abstracts due 31 March 2024",
         "order_number": 205,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Opportunity - conference/CfP"
     },
@@ -150,6 +186,8 @@
         "project_collabs": "",
         "project_timeframe": "Deadline April 1, 2024",
         "order_number": 204,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
         "category_string": "Opportunity - work/professional development"
     },
@@ -164,6 +202,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "January 2024",
         "order_number": 200,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     },
@@ -178,6 +218,8 @@
         "project_collabs": "",
         "project_timeframe": "Proposal Deadline February 15, 2024",
         "order_number": 199,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Opportunity - conference/CfP"
     },
@@ -192,6 +234,8 @@
         "project_collabs": "",
         "project_timeframe": "January 2024",
         "order_number": 199,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
         "category_string": "Research Project, Publication"
     },
@@ -206,6 +250,8 @@
         "project_collabs": "共催　\n一般社団法人芸術の森\n\n後援\n在日ウクライナ大使館\n神戸市灘区役所\n公財兵庫国際交流協会",
         "project_timeframe": "20240128 10:30-16:00",
         "order_number": 101,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -220,6 +266,8 @@
         "project_collabs": "Mark Smulian\nStewart Redpath",
         "project_timeframe": "8/11/2023 and onwards",
         "order_number": 100,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", \"Free access to the MindHarp platform\"]",
         "category_string": "New media creation, Sharing great news, Free access to the MindHarp platform"
     },
@@ -234,6 +282,8 @@
         "project_collabs": "Micah Hendler and Amer Abu Arqub",
         "project_timeframe": "12/9/23-12/20/23",
         "order_number": 100,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -248,6 +298,8 @@
         "project_collabs": "",
         "project_timeframe": "Interest due January 19, 2024",
         "order_number": 100,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, \"Opportunity---funding-2\", null, null, null, null]",
         "category_string": "Opportunity - funding"
     },
@@ -262,6 +314,8 @@
         "project_collabs": "",
         "project_timeframe": "December 13th, 2023",
         "order_number": 100,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
         "category_string": "Publication, Performance/event - online"
     },
@@ -276,6 +330,8 @@
         "project_collabs": "Nicoline Snaas",
         "project_timeframe": "December 11, 2023 and every second Monday",
         "order_number": 99,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Performance/event - in-person, Opportunity - participate in programming"
     },
@@ -290,6 +346,8 @@
         "project_collabs": "528 Corporation\nEmbassy of Ukraine\n\njesse :japanese,female,vocal,piano,compose,music therapist,",
         "project_timeframe": "2023年11月12日日曜13時",
         "order_number": 98,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -304,6 +362,8 @@
         "project_collabs": "",
         "project_timeframe": "November 15th, 2023",
         "order_number": 98,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - online, Performance/event - in-person"
     },
@@ -318,6 +378,8 @@
         "project_collabs": "Ihab Saloul and Britt Baillie, editors",
         "project_timeframe": "posted fall 2023",
         "order_number": 98,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
         "category_string": "Research Project, Publication"
     },
@@ -332,6 +394,8 @@
         "project_collabs": "Music Research Annual",
         "project_timeframe": "Published November 2023",
         "order_number": 97,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, null, null]",
         "category_string": "Publication"
     },
@@ -346,6 +410,8 @@
         "project_collabs": "",
         "project_timeframe": "November 13th, 2023",
         "order_number": 97,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "Publication, New media creation, Sharing great news"
     },
@@ -360,6 +426,8 @@
         "project_collabs": "",
         "project_timeframe": "May 24th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Research Project, Performance/event - in-person"
     },
@@ -374,6 +442,8 @@
         "project_collabs": "",
         "project_timeframe": "September 15th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
         "category_string": "Opportunity - work/professional development"
     },
@@ -388,6 +458,8 @@
         "project_collabs": "Duo Noire, The Space Program, Dr. View, Am're Ford, Beety, Deezy, Jacobi Ryan, think.progress, Thomas Who?, Justice Miles, Solazur",
         "project_timeframe": "2020-2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Performance/event - in-person, Sharing great news"
     },
@@ -402,6 +474,8 @@
         "project_collabs": "Africa Media Agency",
         "project_timeframe": "June 19th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -416,6 +490,8 @@
         "project_collabs": "Sudan Film Factory, the Arab Digital Expression Foundation (ADEF), Ettijahat – Independent Culture, and the Sudan Artist Fund (SAF)",
         "project_timeframe": "announced June 20th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -430,6 +506,8 @@
         "project_collabs": "",
         "project_timeframe": "July 17th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Publication, Opportunity - conference/CfP"
     },
@@ -444,6 +522,8 @@
         "project_collabs": "Institute of Austrian and German Music Research (IAGMR)",
         "project_timeframe": "19-20/05/2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -458,6 +538,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "May 13th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -472,6 +554,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     },
@@ -486,6 +570,8 @@
         "project_collabs": "SERFA",
         "project_timeframe": "May 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -500,6 +586,8 @@
         "project_collabs": "APPRA",
         "project_timeframe": "2019-05-21T04:00:00.000Z",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
         "category_string": "Uncategorized"
     },
@@ -514,6 +602,8 @@
         "project_collabs": null,
         "project_timeframe": "2020-02-26T04:00:00.000Z",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
         "category_string": "Uncategorized"
     },
@@ -528,6 +618,8 @@
         "project_collabs": null,
         "project_timeframe": "2019-11-07T04:00:00.000Z",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
         "category_string": "Uncategorized"
     },
@@ -542,6 +634,8 @@
         "project_collabs": null,
         "project_timeframe": "2020-01-06T04:00:00.000Z",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, null, null]",
         "category_string": "Uncategorized"
     },
@@ -556,6 +650,8 @@
         "project_collabs": "Canadian Museum of History,\nCarleton University, and Queen’s University",
         "project_timeframe": "October 19-22, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Performance/event - in-person, Opportunity - conference/CfP"
     },
@@ -570,6 +666,8 @@
         "project_collabs": "Beyond the Bars, Hyde Square Task Force, Mosaic Youth Theatre of Detroit, and Saint Louis Story Stitchers Artists Collective",
         "project_timeframe": "2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     },
@@ -584,6 +682,8 @@
         "project_collabs": "",
         "project_timeframe": "November 4th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
         "category_string": "Opportunity - work/professional development"
     },
@@ -598,6 +698,8 @@
         "project_collabs": "Uniarts Helsinki",
         "project_timeframe": "deadline October 2nd, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Opportunity - conference/CfP"
     },
@@ -612,6 +714,8 @@
         "project_collabs": "Max-Planck-Institut für empirische Ästhetik",
         "project_timeframe": "September 8th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Research Project, Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
@@ -626,6 +730,8 @@
         "project_collabs": null,
         "project_timeframe": "November 4th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, null, null]",
         "category_string": "Opportunity - work/professional development"
     },
@@ -640,6 +746,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Opportunity - work/professional development, Sharing great news"
     },
@@ -654,6 +762,8 @@
         "project_collabs": "",
         "project_timeframe": "deadline September 4th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Performance/event - online, Opportunity - conference/CfP"
     },
@@ -668,6 +778,8 @@
         "project_collabs": "University of Leeds",
         "project_timeframe": "available September 18th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Opportunity - work/professional development, Opportunity - participate in programming"
     },
@@ -682,6 +794,8 @@
         "project_collabs": "",
         "project_timeframe": "2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, \"Opportunity---funding-2\", \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Opportunity - work/professional development, Opportunity - funding, Opportunity - participate in programming"
     },
@@ -696,6 +810,8 @@
         "project_collabs": "",
         "project_timeframe": "Sept. 1 to 21, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -710,6 +826,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Publication, Sharing great news"
     },
@@ -724,6 +842,8 @@
         "project_collabs": "Hanyang University",
         "project_timeframe": "Proposal deadline April 24, 2024.  Conference May 24-26 2024",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
@@ -738,6 +858,8 @@
         "project_collabs": "Institute for Economics and Peace",
         "project_timeframe": "September 26th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - online, Performance/event - in-person"
     },
@@ -752,6 +874,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Publication, Sharing great news"
     },
@@ -766,6 +890,8 @@
         "project_collabs": "Hanyang University",
         "project_timeframe": "Proposal deadline April 24, 2024.  Conference May 24-26 2024",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Performance/event - online, Performance/event - in-person, Opportunity - conference/CfP"
     },
@@ -780,6 +906,8 @@
         "project_collabs": "Institute for Economics and Peace",
         "project_timeframe": "September 26th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - online, Performance/event - in-person"
     },
@@ -794,6 +922,8 @@
         "project_collabs": "",
         "project_timeframe": "September 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Opportunity - participate in programming"
     },
@@ -808,6 +938,8 @@
         "project_collabs": "Uniting Voices Chicago",
         "project_timeframe": "October 25-26, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -822,6 +954,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "August 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     },
@@ -836,6 +970,8 @@
         "project_collabs": "",
         "project_timeframe": "Ongoing since 2021.",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -850,6 +986,8 @@
         "project_collabs": "CNN for the article describing the project: \nhttps://edition.cnn.com/2023/09/11/style/bidi-bidi-music-arts-center-dfi/index.html",
         "project_timeframe": "Soon to be completed (as of Sept. 2023)",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -864,6 +1002,8 @@
         "project_collabs": "Santuri Electronic Music Academy",
         "project_timeframe": "November 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -878,6 +1018,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "September 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     },
@@ -892,6 +1034,8 @@
         "project_collabs": "World Health Organization",
         "project_timeframe": "September 25th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Research Project, Sharing great news"
     },
@@ -906,6 +1050,8 @@
         "project_collabs": "Alix Didier Sarrouy and Chrysi Kyratsou",
         "project_timeframe": "October 15th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, null, null]",
         "category_string": "Research Project, Publication"
     },
@@ -920,6 +1066,8 @@
         "project_collabs": "",
         "project_timeframe": "October 26th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", null, \"Performance---event---online-2\", \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Research Project, Performance/event - online, Performance/event - in-person"
     },
@@ -934,6 +1082,8 @@
         "project_collabs": "Citizen Diplomacy Action Fund",
         "project_timeframe": "November 3-5, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Performance/event - online, Opportunity - participate in programming"
     },
@@ -948,6 +1098,8 @@
         "project_collabs": "University of York\nYork Festival of Ideas\nMusicians Without Borders\nBeyond Skin\nMOMRI",
         "project_timeframe": "17/06/2021",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
         "category_string": "Performance/event - online"
     },
@@ -962,6 +1114,8 @@
         "project_collabs": "Min-On Museum",
         "project_timeframe": "Oct. 13, 2023 to June 30, 2024",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
@@ -976,6 +1130,8 @@
         "project_collabs": "Marc Sommers",
         "project_timeframe": "October 15th, 2023 10am EST",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
         "category_string": "Research Project, Publication, Performance/event - online"
     },
@@ -990,6 +1146,8 @@
         "project_collabs": "University of Sheffield",
         "project_timeframe": "Deadline December 15th, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", null, null, null, null, \"Opportunity---conference---CfP-2\", null, null, null, null, null]",
         "category_string": "Research Project, Opportunity - conference/CfP"
     },
@@ -1004,6 +1162,8 @@
         "project_collabs": "",
         "project_timeframe": "Sunday, October 22 · 1-2pm EST",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, \"Performance---event---online-2\", null, null, null, null, null, null, null, null]",
         "category_string": "Performance/event - online"
     },
@@ -1018,6 +1178,8 @@
         "project_collabs": "",
         "project_timeframe": "published October 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Research Project, Publication, Sharing great news"
     },
@@ -1032,6 +1194,8 @@
         "project_collabs": "",
         "project_timeframe": "launched September 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -1046,6 +1210,8 @@
         "project_collabs": "",
         "project_timeframe": "published October 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[\"Research Project\", \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Research Project, Publication, Sharing great news"
     },
@@ -1060,6 +1226,8 @@
         "project_collabs": "Kevin Shorner-Johnson",
         "project_timeframe": "October 28, 2023",
         "order_number": 0,
+        "relation_role": null,
+        "slug": null,
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", null]",
         "category_string": "New media creation, Sharing great news"
     }
