@@ -43,7 +43,7 @@
         "project_timeframe": "April 2025",
         "order_number": 250,
         "relation_role": null,
-        "slug": null,
+        "slug": "senghaas-hearing-peace",
         "category_json": "[null, \"Publication\", null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Publication, Sharing great news"
     },
@@ -138,8 +138,8 @@
         "project_collabs": "",
         "project_timeframe": "May 13-21, 2024",
         "order_number": 206,
-        "relation_role": null,
-        "slug": null,
+        "relation_role": "Dialogue Network",
+        "slug": "emu-bergey-course",
         "category_json": "[null, null, null, null, \"Opportunity---work---professional-development-2\", null, null, \"Opportunity---participate-in-programming-2\", null, null, null]",
         "category_string": "Opportunity - work/professional development, Opportunity - participate in programming"
     },
@@ -266,8 +266,8 @@
         "project_collabs": "Mark Smulian\nStewart Redpath",
         "project_timeframe": "8/11/2023 and onwards",
         "order_number": 100,
-        "relation_role": null,
-        "slug": null,
+        "relation_role": "Dialogue Network",
+        "slug": "mindharp-free-access",
         "category_json": "[null, null, null, null, null, null, null, null, \"New-media-creation-2\", \"Sharing-great-news-2\", \"Free access to the MindHarp platform\"]",
         "category_string": "New media creation, Sharing great news, Free access to the MindHarp platform"
     },
@@ -971,7 +971,7 @@
         "project_timeframe": "Ongoing since 2021.",
         "order_number": 0,
         "relation_role": null,
-        "slug": null,
+        "slug": "al-musiqa-tajmana-celebrates",
         "category_json": "[null, null, null, null, null, null, null, null, null, \"Sharing-great-news-2\", null]",
         "category_string": "Sharing great news"
     },
@@ -1114,8 +1114,8 @@
         "project_collabs": "Min-On Museum",
         "project_timeframe": "Oct. 13, 2023 to June 30, 2024",
         "order_number": 0,
-        "relation_role": null,
-        "slug": null,
+        "relation_role": "MOMRI RF",
+        "slug": "momri-exhibition-60th",
         "category_json": "[null, null, null, \"Performance---event---in-person-2\", null, null, null, null, null, null, null]",
         "category_string": "Performance/event - in-person"
     },
